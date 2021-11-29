@@ -6,6 +6,10 @@ A collection of assets and tools used with Unity, recommended by the PIGSquad co
 
 - [GLTFUtility](https://github.com/Siccity/GLTFUtility) - A simple, free, opensource tool for importing 3D assets that are in the [glTF](https://www.khronos.org/gltf/) format.
 
+## Animation
+
+- [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) - A free (with paid pro version) animation engine for scripting and generating animation events
+
 ## Narrative
 
 - [YarnSpinner](https://yarnspinner.dev/) - A free ([open source](https://github.com/YarnSpinnerTool/YarnSpinner)) tool for building interactive dialogues.
