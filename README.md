@@ -1,6 +1,6 @@
 # Unity Tools Recommendations
 
-A collection of assets and tools used with Unity, recommended by the PIGSquad community
+A collection of assets and tools used with Unity, recommended by the PIGSquad community.
 
 ## 3D
 
@@ -8,7 +8,7 @@ A collection of assets and tools used with Unity, recommended by the PIGSquad co
 
 ## Animation
 
-- [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) - A free (with paid pro version) animation engine for scripting and generating animation events
+- [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) - A free (with paid pro version) animation engine for scripting and generating animation events.
 
 ## Narrative
 
