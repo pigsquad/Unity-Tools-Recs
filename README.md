@@ -4,7 +4,7 @@ A collection of assets and tools used with Unity, recommended by the PIGSquad co
 
 ## 3D
 
-- [GLTFUtility](https://github.com/Siccity/GLTFUtility) - A simple, free, opensource tool for importing 3D assets that are in the [glTF](https://www.khronos.org/gltf/) format.
+- [GLTFUtility](https://github.com/Siccity/GLTFUtility) - A simple, free, open source tool for importing 3D assets that are in the [glTF](https://www.khronos.org/gltf/) format.
 
 ## Animation
 
